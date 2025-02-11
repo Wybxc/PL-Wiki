@@ -1,5 +1,5 @@
 ---
-title: PL Wiki
+title: 欢迎来到 PL Wiki！
 ---
 
 > Computer programming is an art; like other arts, its excellence depends on a deep understanding of theory.
